@@ -1,6 +1,6 @@
 # 🌿 ChillVibes - Your Pocket Therapist
 
-![ChillVibes]
+
 
 ChillVibes is a beautifully designed, user-friendly mental wellness app built using **React Native with Expo**. It helps you track your emotions, express your thoughts privately, and interact with a friendly bot companion — all in one place.
 
@@ -40,19 +40,6 @@ ChillVibes is a beautifully designed, user-friendly mental wellness app built us
 
 ---
 
-## 📸 Screenshots
-
-> Replace these image links with your actual screenshot paths inside a `/screenshots` folder.
-
-| Home | Bot Interaction | Mood Insights |
-|------|-----------------|---------------|
-| ![](screenshots/home.png) | ![](screenshots/bot.png) | ![](screenshots/chart.png) |
-
-| Diary Screen | Stats | Profile |
-|--------------|--------|---------|
-| ![](screenshots/diary.png) | ![](screenshots/stats.png) | ![](screenshots/profile.png) |
-
----
 
 ## 🚀 Tech Stack
 
